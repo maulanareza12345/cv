@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Reza Maulana</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #343a40;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        h2 {
+            color: #007bff;
+            margin-top: 20px;
+        }
+        .info {
+            margin: 15px 0;
+            padding: 10px;
+            border-left: 4px solid #007bff;
+            background-color: #f8f9fa;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>curriculum vitae online</h1>
+    </header>
+    <div class="container">
+        <h2>Nama</h2>
+        <div class="info">Reza Maulana</div>
+        
+        <h2>Kelas</h2>
+        <div class="info">Reguler</div>
+        
+        <h2>NIM</h2>
+        <div class="info">242505037</div>
+        
+        <h2>Pendidikan</h2>
+        <div class="info">Sarjana sistem informasi</div>
+        
+        <h2>Keterampilan</h2>
+        <div class="info">HTML, CSS, JavaScript, PHP</div>
+        
+        <h2>asal sekolah</h2>
+        <div class="info">smk harapan 2 rancaekek </div>
+    </div>
+    <footer>
+        &copy; 2025 Reza Maulana. Semua hak dilindungi.
+    </footer>
+</body>
+</html>
+    
